@@ -4,3 +4,4 @@ function add(){
     let result= value1+value2;
     return  result;    
 }
+console.log(add());
